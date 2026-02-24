@@ -1,0 +1,9 @@
+{
+  "name": "telraam",
+  "telraamURL": "https://urbreath.virtualcitymap.de/telraamproxy",
+  "chartType": "bar",
+  "requestDays": 1,
+  "noisePrediction": false,
+  "trafficPrediction": false,
+  "version": "^1.0.0"
+}
